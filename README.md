@@ -1,0 +1,1 @@
+problem solved on python as i dive into the world of python 
